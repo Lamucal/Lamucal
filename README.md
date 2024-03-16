@@ -6,7 +6,7 @@ A transformer-based hybrid multimodal model, various transformer models address 
 
 > The online experience, [See the site here](https://lamucal.ai)  
 
-<img src='./image/model.png'  style="width: 800px;" >   
+<img src='./image/model.png'  style="width: 960px;" >   
 
 `U-Net` network model for audio source separation, `Pitch-Net`, `Beat-Net`, `Chord-Net` and `Segment-Net` based on the transformer model. Apart from establishing the correlation between the frequency and time, the most important aspect is to establish the mutual influence between different networks.   
 
